@@ -1,2 +1,3 @@
 # Vježba
-Opis repozitorija
+Opis repozitorija  
+Popravljen bug
