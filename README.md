@@ -1,2 +1,2 @@
-# vjezba
-opis repozitorija
+# VjeŽba
+Opis repozitorija
